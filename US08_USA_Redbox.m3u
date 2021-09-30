@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*** USA REDBOX - iptvmate.net" group-title="USA REDBOX" tvg-logo="https://images.iptvmate.net/tvglogo/3e77cd520d1ed5cc3948cac1d6ece0d9.png",*** USA REDBOX - iptvmate.net
+https://images.iptvmate.net/files/iptvmate/8.mp4
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/1d72f832bc44e07de9eddf12d55c3a54.png" group-title="USA REDBOX",American Classics
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images.iptvmate.net/tvglogo/d0521d494bb20334719fe36f3af99226.png" group-title="USA REDBOX",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/68997d62e6fb9332c116716af41b1302.png" group-title="USA REDBOX",Battery Pop
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/79b7e7c4e70156b20e18b8e7933dce55.png" group-title="USA REDBOX",BNC (Black News Channel)
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/e2a52fb40b39ce5a403858adc2d744f2.png" group-title="USA REDBOX",Cheddar
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/0094336e891fad6a11626763e53b0783.png" group-title="USA REDBOX",CONtv
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/e7ae18fe7eed824b26348d188a7180ab.png" group-title="USA REDBOX",CONtv Anime
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crackle" tvg-logo="https://images.iptvmate.net/tvglogo/f875ef9af46f16d0bcfa651b1b8f1ac7.png" group-title="USA REDBOX",Crackle TV
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Docurama" tvg-logo="https://images.iptvmate.net/tvglogo/5bfee4ded3c89eade7319deac0cccb9b.png" group-title="USA REDBOX",DocuRAMA
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-docuramaA/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images.iptvmate.net/tvglogo/d7edc01ef85f14b85c41a0e14b89edbf.png" group-title="USA REDBOX",Dove Channel
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/6a521eb673f58b5e9136bb78e7d47dd2.png" group-title="USA REDBOX",Fail Army - iptvmate.net
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/303d30cfba3ee8b49abb213f46e3ff55.png" group-title="USA REDBOX",FamilyFeud
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/de68d6f1fd7324078858cded299feacb.png" group-title="USA REDBOX",Film Hub
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/90be4b334607973c7bb42da5abff1404.png" group-title="USA REDBOX",FilmRise Classic TV
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/9d036450022f74d4d526b8d462c19e38.png" group-title="USA REDBOX",FilmRise Forensic Files
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/22c9e96884fb3c16da7723272a22e3aa.png" group-title="USA REDBOX",FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/2ab6abecb1b49cbad990a9031b691d82.png" group-title="USA REDBOX",FilmRise Mysteries
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/8adfedec1e5aa2ba60ebcd26d7e93ea9.png" group-title="USA REDBOX",FilmRise Sci-Fi
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/dfed2083d6af4d02d8ec5052ee2fea10.png" group-title="USA REDBOX",FilmRise Unsolved Mysteries
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/2b91e32241733c6a4e000cd4f81f16b0.png" group-title="USA REDBOX",FilmRise Western
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/693ccfc8709897141a047bdc9b2f3b04.png" group-title="USA REDBOX",Food 52
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/86e8920910ab75e3ccf470fafb305402.png" group-title="USA REDBOX",Gravitas Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/a62f00b39af6aac1b411eb7c9cacf967.png" group-title="USA REDBOX",Global Got Talent
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/db3cf5a7f0548ef72c396aa2e040e672.png" group-title="USA REDBOX",Hi-Yah!
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/29fa810d00d9690d2032eaee253b6404.png" group-title="USA REDBOX",Journy
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/65407001f4db580ee1804b46337fe97f.png" group-title="USA REDBOX",Kabillion
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="Law - Crime " tvg-name="" tvg-logo="https://images.iptvmate.net/tvglogo/06c2f01327fa281bbb982540b11fbe38.png" group-title="USA REDBOX",Law & Crime
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/84118e91b4da2d8be1e5790f27ff8b13.png" group-title="USA REDBOX",Maverick Movies
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images.iptvmate.net/tvglogo/c40a6a236b217005ca42a2d0390bdf92.png" group-title="USA REDBOX",Newsmax TV
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/ea08d9423cb03b941e6fbf3ea6568047.png" group-title="USA REDBOX",NewsNOW from FOX - iptvmate.net
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/696526b4aa686f896949c3623b007805.png" group-title="USA REDBOX",Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/b5f2c67ba667f6cb2a4068fa1c27343c.png" group-title="USA REDBOX",Now This
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/266e4a818e77fd7a364a2c58ce10c870.png" group-title="USA REDBOX",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Spotlight" tvg-logo="https://images.iptvmate.net/tvglogo/9fd2c469077f3c377ccdb705ae38050c.png" group-title="USA REDBOX",Redbox 1: Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy" tvg-logo="https://images.iptvmate.net/tvglogo/34a8b69b294f6969c685da91355d5fb6.png" group-title="USA REDBOX",Redbox 2: Comedy
+https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Rush" tvg-logo="https://images.iptvmate.net/tvglogo/2c41113487a398efe49809d625232dc3.png" group-title="USA REDBOX",Redbox 3: Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images.iptvmate.net/tvglogo/33e83e0a4db1014b4696f9e0062a6c15.png" group-title="USA REDBOX",Reelz Channel
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/cbf9124ba537238e9c6fc7d392ea3eb1.png" group-title="USA REDBOX",Shout! Factory TV
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/dd3a5886ade15bebf709e797d6037e75.png" group-title="USA REDBOX",The Pet Collective
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/9de8a6064cb82dd8b4ef747152c576c0.png" group-title="USA REDBOX",Real Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images.iptvmate.net/tvglogo/aaed606267de22f2b9fc1c61755578ca.png" group-title="USA REDBOX",Toon Goggles (Redbox)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
